@@ -1,0 +1,25 @@
+{
+  "name": "instagram-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikhilsmg/InstagramAPI-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/nikhilsmg/InstagramAPI-nodejs.git",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.1",
+    "instagram-node": "^0.5.6"
+  }
+}
